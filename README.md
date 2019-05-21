@@ -15,7 +15,7 @@ _Input the desired effect name and generate it with one click. 输入特效名�
 This script does not pull out important parameters for quick adjustment, but instead expects the users to understand the corresponding effects by looking at the attached tutorials in [wiki](), and adapt the effects to their own needs with free adjustments.
 
 ## Version Requirement  
-The script is written with English verision AE, but **currently most of its outputs and documentation will be Chinese-based**. The intial version of script (1.0.0) has been tested in AE CC 2014 (13.2,  rgb separation effect not tested), 2018 (15.1.2),2019 (16.1.1). Future development will be based preferably on CC 2019.
+The script is written with English verision AE, but **currently most of its outputs and documentation will be Chinese-based**. The intial version of script (1.0.0) has been tested in AE CC 2014 (13.2,  rgb separation effect not tested), 2018 (15.1.2), 2019 (16.1.1). Future development will be based preferably on CC 2019.
 
 ## 简介
 **特效图鉴**是一个AE脚本，可用于快速添加MAD/AMV中的典型特效。实现各个特效的具体方法参考自网络上的各种对应教程。通过这个脚本，希望能够在提高制作效率的同时把一些有用和珍贵的教程/技巧以这种具现化的方式进行收集和保留下来。虽然计划上是会不断更新和包含更多的特效，实际上由于作者本人的时间精力限制以及对其它主题的兴趣，请做好作者弃坑的心理准备。。。
