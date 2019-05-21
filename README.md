@@ -2,7 +2,7 @@
 **This repository and its wiki is still under construction.
 这个仓库和对应的wiki仍然在建设中。**
 
-![](0)
+![0](https://github.com/CGexplorer01/Effects-Collection/blob/master/demo/click_demo.png)  
 _Input the desired effect name and generate it with one click. 输入特效名并点击应用即可生成相应特效。_
 
 * For detailed information about installation, usage and available effect list, please refer to [wiki]() (currently mostly written in Chinese)   
