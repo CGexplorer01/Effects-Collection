@@ -7,7 +7,7 @@ _Input the desired effect name and generate it with one click. 输入特效名�
 
 * For detailed information about installation, usage and available effect list（and the corresponding tutorials）, please refer to [wiki]() (currently mostly written in Chinese)   
 
-* 关于详细的安装，使用和可以添加的效果名单(及相应教程)，请参看[维基]()。
+* 关于详细的安装，使用和可以添加的效果名单(及相应教程)，请参看[维基](https://acglibrary.com/wiki/Home)。
 
 ## Introduction
 **Effects Collection** is an After Effects script that allows rapid creation of various effects typically used in MAD/AMV. Effects are implemented based on various tutorials on the Internet. It is created in the hope of speeding up the creation process, while preserving and collecting useful methods/tricks by provding their concrete implementations. Although the plan is to include a growing amount of effects, it may be subject to changes due to author's time and energy restriction and interest in other topics.
